@@ -13,5 +13,6 @@
 //= require rails-ujs
 //= require activestorage
 //= require turbolinks
-//= require leaflet
 //= require_tree .
+//= require leaflet
+//= require geojs-11-mun
